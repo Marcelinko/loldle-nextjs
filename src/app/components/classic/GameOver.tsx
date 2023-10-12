@@ -41,7 +41,7 @@ export default function GameOver(props: Props) {
           <div className="flex flex-col items-center gap-4 text-center bg-input-default px-20 py-10">
             <p className=" text-md text-input-text">
               Congratulations! <br></br>
-              You guessed
+              You guessed{" "}
               <span className=" text-btn-border-light text-lg">
                 {props.champion["name"]}
               </span>

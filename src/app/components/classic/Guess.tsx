@@ -66,12 +66,9 @@ export default function Guess(props: Props) {
               ) : Array.isArray(props.champion[key as keyof Champion]) ? (
                 <div
                   className={`hover:brightness-90 h-full w-full flex flex-col justify-center items-center text-center ${
-                    (props.champion[key as keyof Champion] as string[]).every(
-                      (value) =>
-                        (
-                          props.champToGuess[key as keyof Champion] as string[]
-                        ).includes(value)
-                    )
+                    JSON.stringify(
+                      props.champToGuess[key as keyof Champion]
+                    ) === JSON.stringify(props.champion[key as keyof Champion])
                       ? " bg-cell-good"
                       : (
                           props.champion[key as keyof Champion] as string[]

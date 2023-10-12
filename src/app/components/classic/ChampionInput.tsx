@@ -37,6 +37,7 @@ export default function ChampionInput(props: Props) {
     props.setChampions((champions: Champion[]) =>
       champions.filter((c) => c !== champion)
     );
+    setQuery("");
     props.setGuesses((guesses: Champion[]) => [...guesses, champion]);
   };
 
@@ -49,6 +50,11 @@ export default function ChampionInput(props: Props) {
               placeholder="Champion..."
               className="text-lg font-medium focus:bg-gradient-to-b focus:from-input-dark focus:to-input-light bg-input-default w-full py-2 px-2 text-input-text placeholder-input-text-placeholder placeholder:font-normal outline-none"
               onChange={(e) => setQuery(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === "Enter") {
+                  guessChampion(filteredChampions[0]);
+                }
+              }}
             />
             <Combobox.Button
               onClick={() => setQuery("")}
@@ -82,7 +88,6 @@ export default function ChampionInput(props: Props) {
                       }
                       value={champion.name}
                       onClick={() => {
-                        setQuery("");
                         guessChampion(champion);
                       }}
                     >

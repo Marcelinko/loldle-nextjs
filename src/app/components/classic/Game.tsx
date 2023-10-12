@@ -19,9 +19,7 @@ interface Champion {
 
 export default function ClassicGame() {
   const [champions, setChampions] = useState(championsJSON);
-  const [champToGuess, setChampToGuess] = useState(
-    championsJSON[Math.floor(Math.random() * championsJSON.length)]
-  );
+  const [champToGuess, setChampToGuess] = useState(championsJSON[10]);
   const [guesses, setGuesses] = useState([]);
   const [guessed, setGuessed] = useState(false);
 
