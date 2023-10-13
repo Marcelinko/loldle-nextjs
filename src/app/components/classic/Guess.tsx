@@ -56,12 +56,14 @@ export default function Guess(props: Props) {
                 >
                   {props.champion[key as keyof Champion]}
                   {props.champion[key as keyof Champion] ===
-                  props.champToGuess[key as keyof Champion]
-                    ? ""
-                    : props.champion[key as keyof Champion] >
-                      props.champToGuess[key as keyof Champion]
-                    ? "▼"
-                    : "▲"}
+                  props.champToGuess[key as keyof Champion] ? (
+                    ""
+                  ) : props.champion[key as keyof Champion] >
+                    props.champToGuess[key as keyof Champion] ? (
+                    <span> &#9660;</span>
+                  ) : (
+                    <span> &#9650;</span>
+                  )}
                 </div>
               ) : Array.isArray(props.champion[key as keyof Champion]) ? (
                 <div
