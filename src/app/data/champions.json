@@ -24,7 +24,7 @@
   {
     "icon": "Akali.png",
     "gender": "Female",
-    "position": ["Middle", "Top"],
+    "position": ["Top", "Middle"],
     "species": ["Human"],
     "resource": "Energy",
     "range_type": ["Melee"],
@@ -35,7 +35,7 @@
   {
     "icon": "Akshan.png",
     "gender": "Male",
-    "position": ["Middle", "Top"],
+    "position": ["Top", "Middle"],
     "species": ["Human"],
     "resource": "Mana",
     "range_type": ["Ranged"],
@@ -420,7 +420,7 @@
   {
     "icon": "Gragas.png",
     "gender": "Male",
-    "position": ["Jungle", "Middle", "Top"],
+    "position": ["Top", "Jungle", "Middle"],
     "species": ["Human"],
     "resource": "Mana",
     "range_type": ["Melee"],
@@ -431,7 +431,7 @@
   {
     "icon": "Graves.png",
     "gender": "Male",
-    "position": ["Jungle", "Top"],
+    "position": ["Top", "Jungle"],
     "species": ["Human"],
     "resource": "Mana",
     "range_type": ["Ranged"],
@@ -486,7 +486,7 @@
   {
     "icon": "Irelia.png",
     "gender": "Female",
-    "position": ["Middle", "Top"],
+    "position": ["Top", "Middle"],
     "species": ["Human"],
     "resource": "Mana",
     "range_type": ["Melee"],
@@ -530,7 +530,7 @@
   {
     "icon": "Jax.png",
     "gender": "Male",
-    "position": ["Jungle", "Top"],
+    "position": ["Top", "Jungle"],
     "species": ["Pedophile"],
     "resource": "Mana",
     "range_type": ["Melee"],
@@ -541,7 +541,7 @@
   {
     "icon": "Jayce.png",
     "gender": "Male",
-    "position": ["Middle", "Top"],
+    "position": ["Top", "Middle"],
     "species": ["Human"],
     "resource": "Mana",
     "range_type": ["Ranged", "Melee"],
@@ -761,7 +761,7 @@
   {
     "icon": "Lillia.png",
     "gender": "Female",
-    "position": ["Jungle", "Top"],
+    "position": ["Top", "Jungle"],
     "species": ["Spirit"],
     "resource": "Mana",
     "range_type": ["Melee"],
@@ -1003,7 +1003,7 @@
   {
     "icon": "Olaf.png",
     "gender": "Male",
-    "position": ["Jungle", "Top"],
+    "position": ["Top", "Jungle"],
     "species": ["Human", "Iceborn"],
     "resource": "Mana",
     "range_type": ["Melee"],
@@ -1036,7 +1036,7 @@
   {
     "icon": "Pantheon.png",
     "gender": "Male",
-    "position": ["Jungle", "Top", "Middle", "Support"],
+    "position": ["Top", "Jungle", "Middle", "Support"],
     "species": ["Aspect", "Human"],
     "resource": "Mana",
     "range_type": ["Melee"],
@@ -1047,7 +1047,7 @@
   {
     "icon": "Poppy.png",
     "gender": "Female",
-    "position": ["Jungle", "Top"],
+    "position": ["Top", "Jungle"],
     "species": ["Yordle"],
     "resource": "Mana",
     "range_type": ["Melee"],
@@ -1179,7 +1179,7 @@
   {
     "icon": "Rumble.png",
     "gender": "Male",
-    "position": ["Middle", "Top"],
+    "position": ["Top", "Middle"],
     "species": ["Yordle"],
     "resource": "Heat",
     "range_type": ["Melee"],
@@ -1190,7 +1190,7 @@
   {
     "icon": "Ryze.png",
     "gender": "Male",
-    "position": ["Middle", "Top"],
+    "position": ["Top", "Middle"],
     "species": ["Human", "Magically Altered"],
     "resource": "Mana",
     "range_type": ["Ranged"],
@@ -1355,7 +1355,7 @@
   {
     "icon": "Swain.png",
     "gender": "Male",
-    "position": ["Middle", "Support", "Bottom"],
+    "position": ["Middle", "Bottom", "Support"],
     "species": ["Human", "Magically Altered"],
     "resource": "Mana",
     "range_type": ["Ranged"],
@@ -1388,7 +1388,7 @@
   {
     "icon": "TahmKench.png",
     "gender": "Male",
-    "position": ["Support", "Top"],
+    "position": ["Top", "Support"],
     "species": ["Demon", "Spirit"],
     "resource": "Mana",
     "range_type": ["Melee"],
@@ -1454,7 +1454,7 @@
   {
     "icon": "Tristana.png",
     "gender": "Female",
-    "position": ["Bottom", "Middle"],
+    "position": ["Middle", "Bottom"],
     "species": ["Yordle"],
     "resource": "Mana",
     "range_type": ["Ranged"],
@@ -1465,7 +1465,7 @@
   {
     "icon": "Trundle.png",
     "gender": "Male",
-    "position": ["Jugnle", "Top"],
+    "position": ["Top", "Jungle"],
     "species": ["Iceborn", "Troll"],
     "resource": "Mana",
     "range_type": ["Melee"],
@@ -1498,7 +1498,7 @@
   {
     "icon": "Twitch.png",
     "gender": "Male",
-    "position": ["Support", "Bottom"],
+    "position": ["Bottom", "Support"],
     "species": ["Chamically Altered", "Rat"],
     "resource": "Mana",
     "range_type": ["Ranged"],
@@ -1509,7 +1509,7 @@
   {
     "icon": "Udyr.png",
     "gender": "Male",
-    "position": ["Jungle", "Top"],
+    "position": ["Top", "Jungle"],
     "species": ["Human", "Spiritualist"],
     "resource": "Mana",
     "range_type": ["Melee"],
@@ -1531,7 +1531,7 @@
   {
     "icon": "Varus.png",
     "gender": "Male",
-    "position": ["Bottom", "Middle"],
+    "position": ["Middle", "Bottom"],
     "species": ["Darkin", "Human"],
     "resource": "Mana",
     "range_type": ["Melee"],
@@ -1542,7 +1542,7 @@
   {
     "icon": "Vayne.png",
     "gender": "Female",
-    "position": ["Bottom", "Top"],
+    "position": ["Top", "Bottom"],
     "species": ["Human"],
     "resource": "Mana",
     "range_type": ["Ranged"],
@@ -1630,7 +1630,7 @@
   {
     "icon": "Volibear.png",
     "gender": "Male",
-    "position": ["Jungle", "Top"],
+    "position": ["Top", "Jungle"],
     "species": ["God", "Spirit"],
     "resource": "Mana",
     "range_type": ["Melee"],
@@ -1641,7 +1641,7 @@
   {
     "icon": "Warwick.png",
     "gender": "Male",
-    "position": ["Jungle", "Top"],
+    "position": ["Top", "Jungle"],
     "species": ["Chemically Altered", "Cyborg", "Human"],
     "resource": "Mana",
     "range_type": ["Melee"],
@@ -1696,7 +1696,7 @@
   {
     "icon": "Yasuo.png",
     "gender": "Male",
-    "position": ["Middle", "Top"],
+    "position": ["Top", "Middle"],
     "species": ["Human", "Magicborn"],
     "resource": "Flow",
     "range_type": ["Melee"],
@@ -1707,7 +1707,7 @@
   {
     "icon": "Yone.png",
     "gender": "Male",
-    "position": ["Middle", "Top"],
+    "position": ["Top", "Middle"],
     "species": ["Human", "Magically Altered"],
     "resource": "Manaless",
     "range_type": ["Melee"],
