@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import championsJSON from "../../data/champions.json";
-import ChampionInput from "./ChampionInput";
+import ChampionInput from "../ChampionInput";
 import GuessList from "./GuessList";
 import GameOver from "./GameOver";
 

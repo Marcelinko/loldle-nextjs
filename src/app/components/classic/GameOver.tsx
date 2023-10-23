@@ -36,9 +36,15 @@ export default function GameOver(props: Props) {
   }, []);
   return (
     mounted && (
-      <Transition show={true} ref={bottomRef}>
+      <Transition
+        show={true}
+        ref={bottomRef}
+        enter="transition-opacity duration-500"
+        enterFrom="opacity-0"
+        enterTo="opacity-100"
+      >
         <div className="bg-gradient-to-b from-btn-border-light to-btn-border-dark p-0.5  my-4">
-          <div className="flex flex-col items-center gap-4 text-center bg-input-default px-20 py-10">
+          <div className="flex flex-col items-center gap-4 text-center bg-input-default w-80 py-10">
             <p className=" text-md text-input-text">
               Congratulations! <br></br>
               You guessed{" "}

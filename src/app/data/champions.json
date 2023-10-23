@@ -8,7 +8,8 @@
     "range_type": ["Melee"],
     "region": ["Runterra", "Shurima"],
     "release_year": "2013",
-    "name": "Aatrox"
+    "name": "Aatrox",
+    "id": "Aatrox"
   },
   {
     "icon": "Ahri.png",
@@ -19,7 +20,8 @@
     "range_type": ["Ranged"],
     "region": ["Ionia"],
     "release_year": "2011",
-    "name": "Ahri"
+    "name": "Ahri",
+    "id": "Ahri"
   },
   {
     "icon": "Akali.png",
@@ -30,7 +32,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia"],
     "release_year": "2010",
-    "name": "Akali"
+    "name": "Akali",
+    "id": "Akali"
   },
   {
     "icon": "Akshan.png",
@@ -41,7 +44,8 @@
     "range_type": ["Ranged"],
     "region": ["Shurima"],
     "release_year": "2021",
-    "name": "Akshan"
+    "name": "Akshan",
+    "id": "Akshan"
   },
   {
     "icon": "Alistar.png",
@@ -52,7 +56,8 @@
     "range_type": ["Melee"],
     "region": ["Runterra"],
     "release_year": "2009",
-    "name": "Alistar"
+    "name": "Alistar",
+    "id": "Alistar"
   },
   {
     "icon": "Amumu.png",
@@ -63,7 +68,8 @@
     "range_type": ["Melee"],
     "region": ["Shurima"],
     "release_year": "2009",
-    "name": "Amumu"
+    "name": "Amumu",
+    "id": "Amumu"
   },
   {
     "icon": "Anivia.png",
@@ -74,7 +80,8 @@
     "range_type": ["Ranged"],
     "region": ["Freljord"],
     "release_year": "2009",
-    "name": "Anivia"
+    "name": "Anivia",
+    "id": "Anivia"
   },
   {
     "icon": "Annie.png",
@@ -85,7 +92,8 @@
     "range_type": ["Ranged"],
     "region": ["Noxus", "Runterra"],
     "release_year": "2009",
-    "name": "Annie"
+    "name": "Annie",
+    "id": "Annie"
   },
   {
     "icon": "Aphelios.png",
@@ -96,7 +104,8 @@
     "range_type": ["Ranged"],
     "region": ["Targon"],
     "release_year": "2019",
-    "name": "Aphelios"
+    "name": "Aphelios",
+    "id": "Aphelios"
   },
   {
     "icon": "Ashe.png",
@@ -107,7 +116,8 @@
     "range_type": ["Ranged"],
     "region": ["Freljord"],
     "release_year": "2009",
-    "name": "Ashe"
+    "name": "Ashe",
+    "id": "Ashe"
   },
   {
     "icon": "AurelionSol.png",
@@ -118,7 +128,8 @@
     "range_type": ["Ranged"],
     "region": ["Runterra", "Targon"],
     "release_year": "2016",
-    "name": "Aurelion Sol"
+    "name": "Aurelion Sol",
+    "id": "AurelionSol"
   },
   {
     "icon": "Azir.png",
@@ -129,7 +140,8 @@
     "range_type": ["Ranged"],
     "region": ["Shurima"],
     "release_year": "2014",
-    "name": "Azir"
+    "name": "Azir",
+    "id": "Azir"
   },
   {
     "icon": "Bard.png",
@@ -140,7 +152,8 @@
     "range_type": ["Ranged"],
     "region": ["Runterra"],
     "release_year": "2015",
-    "name": "Bard"
+    "name": "Bard",
+    "id": "Bard"
   },
   {
     "icon": "Belveth.png",
@@ -151,7 +164,8 @@
     "range_type": ["Melee"],
     "region": ["Void"],
     "release_year": "2022",
-    "name": "Bel'Veth"
+    "name": "Bel'Veth",
+    "id": "Belveth"
   },
   {
     "icon": "Blitzcrank.png",
@@ -162,7 +176,8 @@
     "range_type": ["Melee"],
     "region": ["Zaun"],
     "release_year": "2009",
-    "name": "Blitzcrank"
+    "name": "Blitzcrank",
+    "id": "Blitzcrank"
   },
   {
     "icon": "Brand.png",
@@ -173,7 +188,8 @@
     "range_type": ["Ranged"],
     "region": ["Freljord", "Runeterra"],
     "release_year": "2011",
-    "name": "Brand"
+    "name": "Brand",
+    "id": "Brand"
   },
   {
     "icon": "Braum.png",
@@ -184,7 +200,8 @@
     "range_type": ["Melee"],
     "region": ["Freljord"],
     "release_year": "2014",
-    "name": "Braum"
+    "name": "Braum",
+    "id": "Braum"
   },
   {
     "icon": "Briar.png",
@@ -195,7 +212,8 @@
     "range_type": ["Melee"],
     "region": ["Noxus"],
     "release_year": "2023",
-    "name": "Briar"
+    "name": "Briar",
+    "id": "Briar"
   },
   {
     "icon": "Caitlyn.png",
@@ -206,7 +224,8 @@
     "range_type": ["Ranged"],
     "region": ["Piltover"],
     "release_year": "2011",
-    "name": "Caitlyn"
+    "name": "Caitlyn",
+    "id": "Caitlyn"
   },
   {
     "icon": "Camille.png",
@@ -217,7 +236,8 @@
     "range_type": ["Melee"],
     "region": ["Piltover"],
     "release_year": "2016",
-    "name": "Camille"
+    "name": "Camille",
+    "id": "Camille"
   },
   {
     "icon": "Cassiopeia.png",
@@ -228,7 +248,8 @@
     "range_type": ["Ranged"],
     "region": ["Noxus", "Shurima"],
     "release_year": "2010",
-    "name": "Cassiopeia"
+    "name": "Cassiopeia",
+    "id": "Cassiopeia"
   },
   {
     "icon": "Chogath.png",
@@ -239,7 +260,8 @@
     "range_type": ["Melee"],
     "region": ["Void"],
     "release_year": "2009",
-    "name": "Cho'Gath"
+    "name": "Cho'Gath",
+    "id": "Chogath"
   },
   {
     "icon": "Corki.png",
@@ -250,7 +272,8 @@
     "range_type": ["Ranged"],
     "region": ["Bandle City", "Piltover"],
     "release_year": "2009",
-    "name": "Corki"
+    "name": "Corki",
+    "id": "Corki"
   },
   {
     "icon": "Darius.png",
@@ -261,7 +284,8 @@
     "range_type": ["Melee"],
     "region": ["Noxus"],
     "release_year": "2012",
-    "name": "Darius"
+    "name": "Darius",
+    "id": "Darius"
   },
   {
     "icon": "Diana.png",
@@ -272,7 +296,8 @@
     "range_type": ["Melee"],
     "region": ["Targon"],
     "release_year": "2012",
-    "name": "Diana"
+    "name": "Diana",
+    "id": "Diana"
   },
   {
     "icon": "DrMundo.png",
@@ -283,7 +308,8 @@
     "range_type": ["Melee"],
     "region": ["Zaun"],
     "release_year": "2009",
-    "name": "Dr. Mundo"
+    "name": "Dr. Mundo",
+    "id": "DrMundo"
   },
   {
     "icon": "Draven.png",
@@ -294,7 +320,8 @@
     "range_type": ["Ranged"],
     "region": ["Noxus"],
     "release_year": "2012",
-    "name": "Draven"
+    "name": "Draven",
+    "id": "Draven"
   },
   {
     "icon": "Ekko.png",
@@ -305,7 +332,8 @@
     "range_type": ["Melee"],
     "region": ["Zaun"],
     "release_year": "2015",
-    "name": "Ekko"
+    "name": "Ekko",
+    "id": "Ekko"
   },
   {
     "icon": "Elise.png",
@@ -316,7 +344,8 @@
     "range_type": ["Melee", "Ranged"],
     "region": ["Noxus", "Shadow Isles"],
     "release_year": "2012",
-    "name": "Elise"
+    "name": "Elise",
+    "id": "Elise"
   },
   {
     "icon": "Evelynn.png",
@@ -327,7 +356,8 @@
     "range_type": ["Melee"],
     "region": ["Runterra"],
     "release_year": "2009",
-    "name": "Evelynn"
+    "name": "Evelynn",
+    "id": "Evelynn"
   },
   {
     "icon": "Ezreal.png",
@@ -338,7 +368,8 @@
     "range_type": ["Ranged"],
     "region": ["Piltover"],
     "release_year": "2010",
-    "name": "Ezreal"
+    "name": "Ezreal",
+    "id": "Ezreal"
   },
   {
     "icon": "Fiddlesticks.png",
@@ -349,7 +380,8 @@
     "range_type": ["Ranged"],
     "region": ["Runterra"],
     "release_year": "2009",
-    "name": "Fiddlesticks"
+    "name": "Fiddlesticks",
+    "id": "Fiddlesticks"
   },
   {
     "icon": "Fiora.png",
@@ -360,7 +392,8 @@
     "range_type": ["Melee"],
     "region": ["Demacia"],
     "release_year": "2012",
-    "name": "Fiora"
+    "name": "Fiora",
+    "id": "Fiora"
   },
   {
     "icon": "Fizz.png",
@@ -371,7 +404,8 @@
     "range_type": ["Melee"],
     "region": ["Bilgewater"],
     "release_year": "2011",
-    "name": "Fizz"
+    "name": "Fizz",
+    "id": "Fizz"
   },
   {
     "icon": "Galio.png",
@@ -382,7 +416,8 @@
     "range_type": ["Melee"],
     "region": ["Demacia"],
     "release_year": "2010",
-    "name": "Galio"
+    "name": "Galio",
+    "id": "Galio"
   },
   {
     "icon": "Gangplank.png",
@@ -393,7 +428,8 @@
     "range_type": ["Melee"],
     "region": ["Bilgewater"],
     "release_year": "2009",
-    "name": "Gangplank"
+    "name": "Gangplank",
+    "id": "Gangplank"
   },
   {
     "icon": "Garen.png",
@@ -404,7 +440,8 @@
     "range_type": ["Melee"],
     "region": ["Demacia"],
     "release_year": "2010",
-    "name": "Garen"
+    "name": "Garen",
+    "id": "Garen"
   },
   {
     "icon": "Gnar.png",
@@ -415,7 +452,8 @@
     "range_type": ["Ranged", "Melee"],
     "region": ["Freljord"],
     "release_year": "2014",
-    "name": "Gnar"
+    "name": "Gnar",
+    "id": "Gnar"
   },
   {
     "icon": "Gragas.png",
@@ -426,7 +464,8 @@
     "range_type": ["Melee"],
     "region": ["Freljord"],
     "release_year": "2010",
-    "name": "Gragas"
+    "name": "Gragas",
+    "id": "Gragas"
   },
   {
     "icon": "Graves.png",
@@ -437,7 +476,8 @@
     "range_type": ["Ranged"],
     "region": ["Bilgewater"],
     "release_year": "2011",
-    "name": "Graves"
+    "name": "Graves",
+    "id": "Graves"
   },
   {
     "icon": "Gwen.png",
@@ -448,7 +488,8 @@
     "range_type": ["Melee"],
     "region": ["Camavore", "Shadow Isles"],
     "release_year": "2021",
-    "name": "Gwen"
+    "name": "Gwen",
+    "id": "Gwen"
   },
   {
     "icon": "Hecarim.png",
@@ -459,7 +500,8 @@
     "range_type": ["Melee"],
     "region": ["Camavore", "Shadow Isles"],
     "release_year": "2012",
-    "name": "Hecarim"
+    "name": "Hecarim",
+    "id": "Hecarim"
   },
   {
     "icon": "Heimerdinger.png",
@@ -470,7 +512,8 @@
     "range_type": ["Ranged"],
     "region": ["Piltover"],
     "release_year": "2009",
-    "name": "Heimerdinger"
+    "name": "Heimerdinger",
+    "id": "Heimerdinger"
   },
   {
     "icon": "Illaoi.png",
@@ -481,7 +524,8 @@
     "range_type": ["Melee"],
     "region": ["Bilgewater"],
     "release_year": "2015",
-    "name": "Illaoi"
+    "name": "Illaoi",
+    "id": "Illaoi"
   },
   {
     "icon": "Irelia.png",
@@ -492,7 +536,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia"],
     "release_year": "2010",
-    "name": "Irelia"
+    "name": "Irelia",
+    "id": "Irelia"
   },
   {
     "icon": "Ivern.png",
@@ -503,7 +548,8 @@
     "range_type": ["Ranged"],
     "region": ["Freljord", "Ionia"],
     "release_year": "2016",
-    "name": "Ivern"
+    "name": "Ivern",
+    "id": "Ivern"
   },
   {
     "icon": "Janna.png",
@@ -514,7 +560,8 @@
     "range_type": ["Ranged"],
     "region": ["Shurima", "Zaun"],
     "release_year": "2009",
-    "name": "Janna"
+    "name": "Janna",
+    "id": "Janna"
   },
   {
     "icon": "JarvanIV.png",
@@ -525,7 +572,8 @@
     "range_type": ["Melee"],
     "region": ["Demacia"],
     "release_year": "2011",
-    "name": "Jarvan IV"
+    "name": "Jarvan IV",
+    "id": "JarvanIV"
   },
   {
     "icon": "Jax.png",
@@ -536,7 +584,8 @@
     "range_type": ["Melee"],
     "region": ["Icathia", "Runeterra", "Shurima"],
     "release_year": "2009",
-    "name": "Jax"
+    "name": "Jax",
+    "id": "Jax"
   },
   {
     "icon": "Jayce.png",
@@ -547,7 +596,8 @@
     "range_type": ["Ranged", "Melee"],
     "region": ["Piltover"],
     "release_year": "2012",
-    "name": "Jayce"
+    "name": "Jayce",
+    "id": "Jayce"
   },
   {
     "icon": "Jhin.png",
@@ -558,7 +608,8 @@
     "range_type": ["Ranged"],
     "region": ["Ionia"],
     "release_year": "2016",
-    "name": "Jhin"
+    "name": "Jhin",
+    "id": "Jhin"
   },
   {
     "icon": "Jinx.png",
@@ -569,7 +620,8 @@
     "range_type": ["Ranged"],
     "region": ["Zaun"],
     "release_year": "2013",
-    "name": "Jinx"
+    "name": "Jinx",
+    "id": "Jinx"
   },
   {
     "icon": "Kaisa.png",
@@ -580,7 +632,8 @@
     "range_type": ["Ranged"],
     "region": ["Shurima", "Void"],
     "release_year": "2018",
-    "name": "Kai'sa"
+    "name": "Kai'sa",
+    "id": "Kaisa"
   },
   {
     "icon": "Kalista.png",
@@ -591,7 +644,8 @@
     "range_type": ["Ranged"],
     "region": ["Camavore", "Shadow Isles"],
     "release_year": "2014",
-    "name": "Kalista"
+    "name": "Kalista",
+    "id": "Kalista"
   },
   {
     "icon": "Karma.png",
@@ -602,7 +656,8 @@
     "range_type": ["Ranged"],
     "region": ["Ionia"],
     "release_year": "2011",
-    "name": "Karma"
+    "name": "Karma",
+    "id": "Karma"
   },
   {
     "icon": "Karthus.png",
@@ -613,7 +668,8 @@
     "range_type": ["Ranged"],
     "region": ["Noxus", "Shadow Isles"],
     "release_year": "2009",
-    "name": "Karthus"
+    "name": "Karthus",
+    "id": "Karthus"
   },
   {
     "icon": "Kassadin.png",
@@ -624,7 +680,8 @@
     "range_type": ["Melee"],
     "region": ["Shurima", "Void"],
     "release_year": "2009",
-    "name": "Kassadin"
+    "name": "Kassadin",
+    "id": "Kassadin"
   },
   {
     "icon": "Katarina.png",
@@ -635,7 +692,8 @@
     "range_type": ["Melee"],
     "region": ["Noxus"],
     "release_year": "2009",
-    "name": "Katarina"
+    "name": "Katarina",
+    "id": "Katarina"
   },
   {
     "icon": "Kayle.png",
@@ -646,7 +704,8 @@
     "range_type": ["Melee", "Ranged"],
     "region": ["Demacia", "Targon"],
     "release_year": "2009",
-    "name": "Kayle"
+    "name": "Kayle",
+    "id": "Kayle"
   },
   {
     "icon": "Kayn.png",
@@ -657,7 +716,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia", "Noxus", "Runterra", "Shurima"],
     "release_year": "2017",
-    "name": "Kayn"
+    "name": "Kayn",
+    "id": "Kayn"
   },
   {
     "icon": "Kennen.png",
@@ -668,7 +728,8 @@
     "range_type": ["Ranged"],
     "region": ["Ionia"],
     "release_year": "2010",
-    "name": "Kennen"
+    "name": "Kennen",
+    "id": "Kennen"
   },
   {
     "icon": "Khazix.png",
@@ -679,7 +740,8 @@
     "range_type": ["Melee"],
     "region": ["Void"],
     "release_year": "2012",
-    "name": "Kha'Zix"
+    "name": "Kha'Zix",
+    "id": "Khazix"
   },
   {
     "icon": "Kindred.png",
@@ -690,7 +752,8 @@
     "range_type": ["Ranged"],
     "region": ["Runterra"],
     "release_year": "2015",
-    "name": "Kindred"
+    "name": "Kindred",
+    "id": "Kindred"
   },
   {
     "icon": "Kled.png",
@@ -701,7 +764,8 @@
     "range_type": ["Melee"],
     "region": ["Noxus"],
     "release_year": "2016",
-    "name": "Kled"
+    "name": "Kled",
+    "id": "Kled"
   },
   {
     "icon": "KogMaw.png",
@@ -712,7 +776,8 @@
     "range_type": ["Ranged"],
     "region": ["Void"],
     "release_year": "2010",
-    "name": "Kog'Maw"
+    "name": "Kog'Maw",
+    "id": "KogMaw"
   },
   {
     "icon": "KSante.png",
@@ -723,7 +788,8 @@
     "range_type": ["Melee"],
     "region": ["Shurima"],
     "release_year": "2022",
-    "name": "K'Sante"
+    "name": "K'Sante",
+    "id": "KSante"
   },
   {
     "icon": "Leblanc.png",
@@ -734,7 +800,8 @@
     "range_type": ["Ranged"],
     "region": ["Noxus"],
     "release_year": "2010",
-    "name": "LeBlanc"
+    "name": "LeBlanc",
+    "id": "Leblanc"
   },
   {
     "icon": "LeeSin.png",
@@ -745,7 +812,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia"],
     "release_year": "2011",
-    "name": "Lee Sin"
+    "name": "Lee Sin",
+    "id": "LeeSin"
   },
   {
     "icon": "Leona.png",
@@ -756,7 +824,8 @@
     "range_type": ["Melee"],
     "region": ["Targon"],
     "release_year": "2011",
-    "name": "Leona"
+    "name": "Leona",
+    "id": "Leona"
   },
   {
     "icon": "Lillia.png",
@@ -767,7 +836,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia"],
     "release_year": "2020",
-    "name": "Lillia"
+    "name": "Lillia",
+    "id": "Lillia"
   },
   {
     "icon": "Lissandra.png",
@@ -778,7 +848,8 @@
     "range_type": ["Ranged"],
     "region": ["Freljord"],
     "release_year": "2013",
-    "name": "Lissandra"
+    "name": "Lissandra",
+    "id": "Lissandra"
   },
   {
     "icon": "Lucian.png",
@@ -789,7 +860,8 @@
     "range_type": ["Ranged"],
     "region": ["Demacia", "Shadow Isles"],
     "release_year": "2013",
-    "name": "Lucian"
+    "name": "Lucian",
+    "id": "Lucian"
   },
   {
     "icon": "Lulu.png",
@@ -800,7 +872,8 @@
     "range_type": ["Ranged"],
     "region": ["Bandle City"],
     "release_year": "2012",
-    "name": "Lulu"
+    "name": "Lulu",
+    "id": "Lulu"
   },
   {
     "icon": "Lux.png",
@@ -811,7 +884,8 @@
     "range_type": ["Ranged"],
     "region": ["Demacia"],
     "release_year": "2010",
-    "name": "Lux"
+    "name": "Lux",
+    "id": "Lux"
   },
   {
     "icon": "Malphite.png",
@@ -822,7 +896,8 @@
     "range_type": ["Melee"],
     "region": ["Ixtal", "Shurima"],
     "release_year": "2009",
-    "name": "Malphite"
+    "name": "Malphite",
+    "id": "Malphite"
   },
   {
     "icon": "Malzahar.png",
@@ -833,7 +908,8 @@
     "range_type": ["Ranged"],
     "region": ["Shurima", "Void"],
     "release_year": "2010",
-    "name": "Malzahar"
+    "name": "Malzahar",
+    "id": "Malzahar"
   },
   {
     "icon": "Maokai.png",
@@ -844,7 +920,8 @@
     "range_type": ["Melee"],
     "region": ["Shadow Isles"],
     "release_year": "2011",
-    "name": "Maokai"
+    "name": "Maokai",
+    "id": "Maokai"
   },
   {
     "icon": "MasterYi.png",
@@ -855,7 +932,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia"],
     "release_year": "2009",
-    "name": "Master Yi"
+    "name": "Master Yi",
+    "id": "MasterYi"
   },
   {
     "icon": "Milio.png",
@@ -866,7 +944,8 @@
     "range_type": ["Ranged"],
     "region": ["Ixtal"],
     "release_year": "2023",
-    "name": "Milio"
+    "name": "Milio",
+    "id": "Milio"
   },
   {
     "icon": "MissFortune.png",
@@ -877,7 +956,8 @@
     "range_type": ["Ranged"],
     "region": ["Bilgewater"],
     "release_year": "2010",
-    "name": "Miss Fortune"
+    "name": "Miss Fortune",
+    "id": "MissFortune"
   },
   {
     "icon": "Mordekaiser.png",
@@ -888,7 +968,8 @@
     "range_type": ["Melee"],
     "region": ["Noxus"],
     "release_year": "2010",
-    "name": "Mordekaiser"
+    "name": "Mordekaiser",
+    "id": "Mordekaiser"
   },
   {
     "icon": "Morgana.png",
@@ -899,7 +980,8 @@
     "range_type": ["Ranged"],
     "region": ["Demacia", "Targon"],
     "release_year": "2009",
-    "name": "Morgana"
+    "name": "Morgana",
+    "id": "Morgana"
   },
   {
     "icon": "Naafiri.png",
@@ -910,7 +992,8 @@
     "range_type": ["Melee"],
     "region": ["Runterra", "Shurima"],
     "release_year": "2023",
-    "name": "Naafiri"
+    "name": "Naafiri",
+    "id": "Naafiri"
   },
   {
     "icon": "Nami.png",
@@ -921,7 +1004,8 @@
     "range_type": ["Ranged"],
     "region": ["Runterra"],
     "release_year": "2012",
-    "name": "Nami"
+    "name": "Nami",
+    "id": "Nami"
   },
   {
     "icon": "Nasus.png",
@@ -932,7 +1016,8 @@
     "range_type": ["Melee"],
     "region": ["Shurima"],
     "release_year": "2009",
-    "name": "Nasus"
+    "name": "Nasus",
+    "id": "Nasus"
   },
   {
     "icon": "Nautilus.png",
@@ -943,7 +1028,8 @@
     "range_type": ["Melee"],
     "region": ["Bilgewater"],
     "release_year": "2012",
-    "name": "Nautilus"
+    "name": "Nautilus",
+    "id": "Nautilus"
   },
   {
     "icon": "Neeko.png",
@@ -954,7 +1040,8 @@
     "range_type": ["Ranged"],
     "region": ["Ixtal"],
     "release_year": "2018",
-    "name": "Neeko"
+    "name": "Neeko",
+    "id": "Neeko"
   },
   {
     "icon": "Nidalee.png",
@@ -965,7 +1052,8 @@
     "range_type": ["Melee", "Ranged"],
     "region": ["Ixtal"],
     "release_year": "2009",
-    "name": "Nidalee"
+    "name": "Nidalee",
+    "id": "Nidalee"
   },
   {
     "icon": "Nilah.png",
@@ -976,7 +1064,8 @@
     "range_type": ["Melee"],
     "region": ["Bilgewater"],
     "release_year": "2022",
-    "name": "Nilah"
+    "name": "Nilah",
+    "id": "Nilah"
   },
   {
     "icon": "Nocturne.png",
@@ -987,7 +1076,8 @@
     "range_type": ["Melee"],
     "region": ["Runterra"],
     "release_year": "2011",
-    "name": "Nocturne"
+    "name": "Nocturne",
+    "id": "Nocturne"
   },
   {
     "icon": "Nunu.png",
@@ -998,7 +1088,8 @@
     "range_type": ["Melee"],
     "region": ["Freljord"],
     "release_year": "2009",
-    "name": "Nunu"
+    "name": "Nunu",
+    "id": "Nunu"
   },
   {
     "icon": "Olaf.png",
@@ -1009,7 +1100,8 @@
     "range_type": ["Melee"],
     "region": ["Freljord"],
     "release_year": "2010",
-    "name": "Olaf"
+    "name": "Olaf",
+    "id": "Olaf"
   },
   {
     "icon": "Orianna.png",
@@ -1020,7 +1112,8 @@
     "range_type": ["Ranged"],
     "region": ["Piltover"],
     "release_year": "2011",
-    "name": "Orianna"
+    "name": "Orianna",
+    "id": "Orianna"
   },
   {
     "icon": "Ornn.png",
@@ -1031,18 +1124,20 @@
     "range_type": ["Melee"],
     "region": ["Freljord"],
     "release_year": "2017",
-    "name": "Ornn"
+    "name": "Ornn",
+    "id": "Ornn"
   },
   {
     "icon": "Pantheon.png",
     "gender": "Male",
-    "position": ["Top", "Jungle", "Middle", "Support"],
+    "position": ["Top", "Middle", "Support"],
     "species": ["Aspect", "Human"],
     "resource": "Mana",
     "range_type": ["Melee"],
     "region": ["Targon"],
     "release_year": "2010",
-    "name": "Pantheon"
+    "name": "Pantheon",
+    "id": "Pantheon"
   },
   {
     "icon": "Poppy.png",
@@ -1053,7 +1148,8 @@
     "range_type": ["Melee"],
     "region": ["Demacia"],
     "release_year": "2010",
-    "name": "Poppy"
+    "name": "Poppy",
+    "id": "Poppy"
   },
   {
     "icon": "Pyke.png",
@@ -1064,7 +1160,8 @@
     "range_type": ["Melee"],
     "region": ["Bilgewater"],
     "release_year": "2018",
-    "name": "Pyke"
+    "name": "Pyke",
+    "id": "Pyke"
   },
   {
     "icon": "Qiyana.png",
@@ -1075,7 +1172,8 @@
     "range_type": ["Melee"],
     "region": ["Ixtal"],
     "release_year": "2019",
-    "name": "Qiyana"
+    "name": "Qiyana",
+    "id": "Qiyana"
   },
   {
     "icon": "Quinn.png",
@@ -1086,7 +1184,8 @@
     "range_type": ["Ranged"],
     "region": ["Demacia"],
     "release_year": "2013",
-    "name": "Quinn"
+    "name": "Quinn",
+    "id": "Quinn"
   },
   {
     "icon": "Rakan.png",
@@ -1097,7 +1196,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia"],
     "release_year": "2017",
-    "name": "Rakan"
+    "name": "Rakan",
+    "id": "Rakan"
   },
   {
     "icon": "Rammus.png",
@@ -1108,7 +1208,8 @@
     "range_type": ["Melee"],
     "region": ["Shurima"],
     "release_year": "2009",
-    "name": "Rammus"
+    "name": "Rammus",
+    "id": "Rammus"
   },
   {
     "icon": "RekSai.png",
@@ -1119,7 +1220,8 @@
     "range_type": ["Melee"],
     "region": ["Shurima", "Void"],
     "release_year": "2014",
-    "name": "Rek'Sai"
+    "name": "Rek'Sai",
+    "id": "RekSai"
   },
   {
     "icon": "Rell.png",
@@ -1130,7 +1232,8 @@
     "range_type": ["Melee"],
     "region": ["Noxus"],
     "release_year": "2020",
-    "name": "Rell"
+    "name": "Rell",
+    "id": "Rell"
   },
   {
     "icon": "Renata.png",
@@ -1141,7 +1244,8 @@
     "range_type": ["Ranged"],
     "region": ["Zaun"],
     "release_year": "2022",
-    "name": "Renata"
+    "name": "Renata",
+    "id": "Renata"
   },
   {
     "icon": "Renekton.png",
@@ -1152,7 +1256,8 @@
     "range_type": ["Melee"],
     "region": ["Shurima"],
     "release_year": "2011",
-    "name": "Renekton"
+    "name": "Renekton",
+    "id": "Renekton"
   },
   {
     "icon": "Rengar.png",
@@ -1163,7 +1268,8 @@
     "range_type": ["Melee"],
     "region": ["Ixtal", "Shurima"],
     "release_year": "2012",
-    "name": "Rengar"
+    "name": "Rengar",
+    "id": "Rengar"
   },
   {
     "icon": "Riven.png",
@@ -1174,7 +1280,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia", "Noxus"],
     "release_year": "2011",
-    "name": "Riven"
+    "name": "Riven",
+    "id": "Riven"
   },
   {
     "icon": "Rumble.png",
@@ -1185,7 +1292,8 @@
     "range_type": ["Melee"],
     "region": ["Bandle City"],
     "release_year": "2011",
-    "name": "Rumble"
+    "name": "Rumble",
+    "id": "Rumble"
   },
   {
     "icon": "Ryze.png",
@@ -1196,7 +1304,8 @@
     "range_type": ["Ranged"],
     "region": ["Runterra"],
     "release_year": "2009",
-    "name": "Ryze"
+    "name": "Ryze",
+    "id": "Ryze"
   },
   {
     "icon": "Samira.png",
@@ -1207,7 +1316,8 @@
     "range_type": ["Ranged", "Melee"],
     "region": ["Noxus", "Shurima"],
     "release_year": "2020",
-    "name": "Samira"
+    "name": "Samira",
+    "id": "Samira"
   },
   {
     "icon": "Sejuani.png",
@@ -1218,7 +1328,8 @@
     "range_type": ["Melee"],
     "region": ["Freljord"],
     "release_year": "2012",
-    "name": "Sejuani"
+    "name": "Sejuani",
+    "id": "Sejuani"
   },
   {
     "icon": "Senna.png",
@@ -1229,7 +1340,8 @@
     "range_type": ["Ranged"],
     "region": ["Shadow Isles"],
     "release_year": "2019",
-    "name": "Senna"
+    "name": "Senna",
+    "id": "Senna"
   },
   {
     "icon": "Seraphine.png",
@@ -1240,7 +1352,8 @@
     "range_type": ["Ranged"],
     "region": ["Piltover", "Zaun"],
     "release_year": "2020",
-    "name": "Seraphine"
+    "name": "Seraphine",
+    "id": "Seraphine"
   },
   {
     "icon": "Sett.png",
@@ -1251,7 +1364,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia"],
     "release_year": "2020",
-    "name": "Sett"
+    "name": "Sett",
+    "id": "Sett"
   },
   {
     "icon": "Shaco.png",
@@ -1262,7 +1376,8 @@
     "range_type": ["Melee"],
     "region": ["Runterra"],
     "release_year": "2009",
-    "name": "Shaco"
+    "name": "Shaco",
+    "id": "Shaco"
   },
   {
     "icon": "Shen.png",
@@ -1273,7 +1388,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia"],
     "release_year": "2010",
-    "name": "Shen"
+    "name": "Shen",
+    "id": "Shen"
   },
   {
     "icon": "Shyvana.png",
@@ -1284,7 +1400,8 @@
     "range_type": ["Melee"],
     "region": ["Demacia"],
     "release_year": "2011",
-    "name": "Shyvana"
+    "name": "Shyvana",
+    "id": "Shyvana"
   },
   {
     "icon": "Singed.png",
@@ -1295,7 +1412,8 @@
     "range_type": ["Melee"],
     "region": ["Piltover", "Zaun"],
     "release_year": "2009",
-    "name": "Singed"
+    "name": "Singed",
+    "id": "Singed"
   },
   {
     "icon": "Sion.png",
@@ -1306,7 +1424,8 @@
     "range_type": ["Melee"],
     "region": ["Noxus"],
     "release_year": "2009",
-    "name": "Sion"
+    "name": "Sion",
+    "id": "Sion"
   },
   {
     "icon": "Sivir.png",
@@ -1317,7 +1436,8 @@
     "range_type": ["Ranged"],
     "region": ["Shurima"],
     "release_year": "2009",
-    "name": "Sivir"
+    "name": "Sivir",
+    "id": "Sivir"
   },
   {
     "icon": "Skarner.png",
@@ -1326,9 +1446,10 @@
     "species": ["Brackern"],
     "resource": "Mana",
     "range_type": ["Melee"],
-    "region": ["Shurima "],
+    "region": ["Shurima"],
     "release_year": "2011",
-    "name": "Skarner"
+    "name": "Skarner",
+    "id": "Skarner"
   },
   {
     "icon": "Sona.png",
@@ -1339,7 +1460,8 @@
     "range_type": ["Ranged"],
     "region": ["Demacia", "Ionia"],
     "release_year": "2010",
-    "name": "Sona"
+    "name": "Sona",
+    "id": "Sona"
   },
   {
     "icon": "Soraka.png",
@@ -1350,7 +1472,8 @@
     "range_type": ["Ranged"],
     "region": ["Ionia", "Targon"],
     "release_year": "2009",
-    "name": "Soraka"
+    "name": "Soraka",
+    "id": "Soraka"
   },
   {
     "icon": "Swain.png",
@@ -1361,7 +1484,8 @@
     "range_type": ["Ranged"],
     "region": ["Noxus"],
     "release_year": "2010",
-    "name": "Swain"
+    "name": "Swain",
+    "id": "Swain"
   },
   {
     "icon": "Sylas.png",
@@ -1372,7 +1496,8 @@
     "range_type": ["Melee"],
     "region": ["Demacia", "Freljord"],
     "release_year": "2019",
-    "name": "Sylas"
+    "name": "Sylas",
+    "id": "Sylas"
   },
   {
     "icon": "Syndra.png",
@@ -1383,7 +1508,8 @@
     "range_type": ["Ranged"],
     "region": ["Ionia"],
     "release_year": "2012",
-    "name": "Syndra"
+    "name": "Syndra",
+    "id": "Syndra"
   },
   {
     "icon": "TahmKench.png",
@@ -1394,7 +1520,8 @@
     "range_type": ["Melee"],
     "region": ["Bilgewater", "Runterra"],
     "release_year": "2015",
-    "name": "Tahm Kench"
+    "name": "Tahm Kench",
+    "id": "TahmKench"
   },
   {
     "icon": "Taliyah.png",
@@ -1405,7 +1532,8 @@
     "range_type": ["Ranged"],
     "region": ["Shurima"],
     "release_year": "2016",
-    "name": "Taliyah"
+    "name": "Taliyah",
+    "id": "Taliyah"
   },
   {
     "icon": "Talon.png",
@@ -1416,7 +1544,8 @@
     "range_type": ["Melee"],
     "region": ["Noxus"],
     "release_year": "2011",
-    "name": "Talon"
+    "name": "Talon",
+    "id": "Talon"
   },
   {
     "icon": "Taric.png",
@@ -1427,7 +1556,8 @@
     "range_type": ["Melee"],
     "region": ["Demacia", "Targon"],
     "release_year": "2009",
-    "name": "Taric"
+    "name": "Taric",
+    "id": "Taric"
   },
   {
     "icon": "Teemo.png",
@@ -1438,7 +1568,8 @@
     "range_type": ["Ranged"],
     "region": ["Bandle City"],
     "release_year": "2009",
-    "name": "Teemo"
+    "name": "Teemo",
+    "id": "Teemo"
   },
   {
     "icon": "Thresh.png",
@@ -1449,7 +1580,8 @@
     "range_type": ["Ranged"],
     "region": ["Shadow Isles"],
     "release_year": "2013",
-    "name": "Thresh"
+    "name": "Thresh",
+    "id": "Thresh"
   },
   {
     "icon": "Tristana.png",
@@ -1460,7 +1592,8 @@
     "range_type": ["Ranged"],
     "region": ["Bandle City"],
     "release_year": "2009",
-    "name": "Tristana"
+    "name": "Tristana",
+    "id": "Tristana"
   },
   {
     "icon": "Trundle.png",
@@ -1471,7 +1604,8 @@
     "range_type": ["Melee"],
     "region": ["Freljord"],
     "release_year": "2010",
-    "name": "Trundle"
+    "name": "Trundle",
+    "id": "Trundle"
   },
   {
     "icon": "Tryndamere.png",
@@ -1482,7 +1616,8 @@
     "range_type": ["Melee"],
     "region": ["Freljord"],
     "release_year": "2009",
-    "name": "Tryndamere"
+    "name": "Tryndamere",
+    "id": "Tryndamere"
   },
   {
     "icon": "TwistedFate.png",
@@ -1493,7 +1628,8 @@
     "range_type": ["Ranged"],
     "region": ["Bilgewater"],
     "release_year": "2009",
-    "name": "Twisted Fate"
+    "name": "Twisted Fate",
+    "id": "TwistedFate"
   },
   {
     "icon": "Twitch.png",
@@ -1504,7 +1640,8 @@
     "range_type": ["Ranged"],
     "region": ["Zaun"],
     "release_year": "2009",
-    "name": "Twitch"
+    "name": "Twitch",
+    "id": "Twitch"
   },
   {
     "icon": "Udyr.png",
@@ -1515,7 +1652,8 @@
     "range_type": ["Melee"],
     "region": ["Freljord", "Ionia"],
     "release_year": "2009",
-    "name": "Udyr"
+    "name": "Udyr",
+    "id": "Udyr"
   },
   {
     "icon": "Urgot.png",
@@ -1526,7 +1664,8 @@
     "range_type": ["Ranged"],
     "region": ["Noxus", "Zaun"],
     "release_year": "2010",
-    "name": "Urgot"
+    "name": "Urgot",
+    "id": "Urgot"
   },
   {
     "icon": "Varus.png",
@@ -1537,7 +1676,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia", "Runterra", "Shurima"],
     "release_year": "2012",
-    "name": "Varus"
+    "name": "Varus",
+    "id": "Varus"
   },
   {
     "icon": "Vayne.png",
@@ -1548,7 +1688,8 @@
     "range_type": ["Ranged"],
     "region": ["Demacia"],
     "release_year": "2011",
-    "name": "Vayne"
+    "name": "Vayne",
+    "id": "Vayne"
   },
   {
     "icon": "Veigar.png",
@@ -1559,7 +1700,8 @@
     "range_type": ["Ranged"],
     "region": ["Bandle City", "Runterra"],
     "release_year": "2009",
-    "name": "Veigar"
+    "name": "Veigar",
+    "id": "Veigar"
   },
   {
     "icon": "Velkoz.png",
@@ -1570,7 +1712,8 @@
     "range_type": ["Ranged"],
     "region": ["Void"],
     "release_year": "2014",
-    "name": "Vel'Koz"
+    "name": "Vel'Koz",
+    "id": "Velkoz"
   },
   {
     "icon": "Vex.png",
@@ -1581,7 +1724,8 @@
     "range_type": ["Ranged"],
     "region": ["Bandle City", "Shadow Isles"],
     "release_year": "2021",
-    "name": "Vex"
+    "name": "Vex",
+    "id": "Vex"
   },
   {
     "icon": "Vi.png",
@@ -1592,7 +1736,8 @@
     "range_type": ["Melee"],
     "region": ["Piltover", "Zaun"],
     "release_year": "2012",
-    "name": "Vi"
+    "name": "Vi",
+    "id": "Vi"
   },
   {
     "icon": "Viego.png",
@@ -1603,7 +1748,8 @@
     "range_type": ["Melee"],
     "region": ["Camavore", "Shadow Isles"],
     "release_year": "2021",
-    "name": "Viego"
+    "name": "Viego",
+    "id": "Viego"
   },
   {
     "icon": "Viktor.png",
@@ -1614,7 +1760,8 @@
     "range_type": ["Ranged"],
     "region": ["Piltover", "Zaun"],
     "release_year": "2011",
-    "name": "Viktor"
+    "name": "Viktor",
+    "id": "Viktor"
   },
   {
     "icon": "Vladimir.png",
@@ -1625,7 +1772,8 @@
     "range_type": ["Ranged"],
     "region": ["Camavor", "Noxus", "Shadow Isles"],
     "release_year": "2010",
-    "name": "Vladimir"
+    "name": "Vladimir",
+    "id": "Vladimir"
   },
   {
     "icon": "Volibear.png",
@@ -1636,7 +1784,8 @@
     "range_type": ["Melee"],
     "region": ["Freljord"],
     "release_year": "2011",
-    "name": "Volibear"
+    "name": "Volibear",
+    "id": "Volibear"
   },
   {
     "icon": "Warwick.png",
@@ -1647,7 +1796,8 @@
     "range_type": ["Melee"],
     "region": ["Zaun"],
     "release_year": "2009",
-    "name": "Warwick"
+    "name": "Warwick",
+    "id": "Warwick"
   },
   {
     "icon": "MonkeyKing.png",
@@ -1658,7 +1808,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia"],
     "release_year": "2011",
-    "name": "Wukong"
+    "name": "Wukong",
+    "id": "MonkeyKing"
   },
   {
     "icon": "Xayah.png",
@@ -1669,7 +1820,8 @@
     "range_type": ["Ranged"],
     "region": ["Ionia"],
     "release_year": "2017",
-    "name": "Xayah"
+    "name": "Xayah",
+    "id": "Xayah"
   },
   {
     "icon": "Xerath.png",
@@ -1680,7 +1832,8 @@
     "range_type": ["Ranged"],
     "region": ["Shurima"],
     "release_year": "2011",
-    "name": "Xerath"
+    "name": "Xerath",
+    "id": "Xerath"
   },
   {
     "icon": "XinZhao.png",
@@ -1691,7 +1844,8 @@
     "range_type": ["Melee"],
     "region": ["Demacia", "Ionia", "Noxus"],
     "release_year": "2010",
-    "name": "Xin Zhao"
+    "name": "Xin Zhao",
+    "id": "XinZhao"
   },
   {
     "icon": "Yasuo.png",
@@ -1702,7 +1856,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia"],
     "release_year": "2013",
-    "name": "Yasuo"
+    "name": "Yasuo",
+    "id": "Yasuo"
   },
   {
     "icon": "Yone.png",
@@ -1713,7 +1868,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia"],
     "release_year": "2020",
-    "name": "Yone"
+    "name": "Yone",
+    "id": "Yone"
   },
   {
     "icon": "Yorick.png",
@@ -1724,7 +1880,8 @@
     "range_type": ["Melee"],
     "region": ["Shadow Isles"],
     "release_year": "2011",
-    "name": "Yorick"
+    "name": "Yorick",
+    "id": "Yorick"
   },
   {
     "icon": "Yuumi.png",
@@ -1735,7 +1892,8 @@
     "range_type": ["Ranged"],
     "region": ["Bandle City"],
     "release_year": "2019",
-    "name": "Yuumi"
+    "name": "Yuumi",
+    "id": "Yuumi"
   },
   {
     "icon": "Zac.png",
@@ -1746,7 +1904,8 @@
     "range_type": ["Melee"],
     "region": ["Zaun"],
     "release_year": "2013",
-    "name": "Zac"
+    "name": "Zac",
+    "id": "Zac"
   },
   {
     "icon": "Zed.png",
@@ -1757,7 +1916,8 @@
     "range_type": ["Melee"],
     "region": ["Ionia"],
     "release_year": "2012",
-    "name": "Zed"
+    "name": "Zed",
+    "id": "Zed"
   },
   {
     "icon": "Zeri.png",
@@ -1768,7 +1928,8 @@
     "range_type": ["Ranged"],
     "region": ["Zaun"],
     "release_year": "2022",
-    "name": "Zeri"
+    "name": "Zeri",
+    "id": "Zeri"
   },
   {
     "icon": "Ziggs.png",
@@ -1779,7 +1940,8 @@
     "range_type": ["Ranged"],
     "region": ["Zaun"],
     "release_year": "2012",
-    "name": "Ziggs"
+    "name": "Ziggs",
+    "id": "Ziggs"
   },
   {
     "icon": "Zilean.png",
@@ -1790,7 +1952,8 @@
     "range_type": ["Ranged"],
     "region": ["Icathia", "Runeterra", "Shurima"],
     "release_year": "2009",
-    "name": "Zilean"
+    "name": "Zilean",
+    "id": "Zilean"
   },
   {
     "icon": "Zoe.png",
@@ -1801,7 +1964,8 @@
     "range_type": ["Ranged"],
     "region": ["Targon"],
     "release_year": "2017",
-    "name": "Zoe"
+    "name": "Zoe",
+    "id": "Zoe"
   },
   {
     "icon": "Zyra.png",
@@ -1812,6 +1976,7 @@
     "range_type": ["Ranged"],
     "region": ["Ixtal"],
     "release_year": "2012",
-    "name": "Zyra"
+    "name": "Zyra",
+    "id": "Zyra"
   }
 ]

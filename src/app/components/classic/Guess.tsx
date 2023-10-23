@@ -24,7 +24,7 @@ export default function Guess(props: Props) {
   return (
     <div className="flex gap-1 mb-1">
       {Object.keys(props.champion)
-        .slice(0, -1)
+        .slice(0, -2)
         .map((key, index) => (
           <Transition
             key={key}
@@ -56,14 +56,12 @@ export default function Guess(props: Props) {
                 >
                   {props.champion[key as keyof Champion]}
                   {props.champion[key as keyof Champion] ===
-                  props.champToGuess[key as keyof Champion] ? (
-                    ""
-                  ) : props.champion[key as keyof Champion] >
-                    props.champToGuess[key as keyof Champion] ? (
-                    <span> &#9660;</span>
-                  ) : (
-                    <span> &#9650;</span>
-                  )}
+                  props.champToGuess[key as keyof Champion]
+                    ? ""
+                    : props.champion[key as keyof Champion] >
+                      props.champToGuess[key as keyof Champion]
+                    ? "▼"
+                    : "▲"}
                 </div>
               ) : Array.isArray(props.champion[key as keyof Champion]) ? (
                 <div

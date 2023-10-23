@@ -32,10 +32,12 @@ export default function ChampionInput(props: Props) {
     champion.name.toLowerCase().startsWith(query.toLowerCase())
   );
 
-  const guessChampion = (champion: Champion) => {
+  const guessChampion = (name: string) => {
+    if (name === undefined) return;
+    const champion = props.champions.find((c) => c.name === name);
     if (champion === undefined) return;
     props.setChampions((champions: Champion[]) =>
-      champions.filter((c) => c !== champion)
+      champions.filter((c) => c.name !== name)
     );
     setQuery("");
     props.setGuesses((guesses: Champion[]) => [...guesses, champion]);
@@ -43,18 +45,19 @@ export default function ChampionInput(props: Props) {
 
   return (
     <div className="w-80">
-      <Combobox value={query} disabled={props.guessed}>
-        <div className="relative mt-1">
+      <Combobox
+        value={query}
+        onChange={(name) => {
+          guessChampion(name);
+        }}
+        disabled={props.guessed}
+      >
+        <div className="relative mt-2">
           <div className="bg-gradient-to-b p-0.5 from-input-border-dark to-input-border-light relative w-full cursor-default overflow-hidden text-left shadow-md focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 focus-visible:ring-offset-2 focus-visible:ring-offset-teal-300 sm:text-sm">
             <Combobox.Input
               placeholder="Champion..."
               className="text-lg font-medium focus:bg-gradient-to-b focus:from-input-dark focus:to-input-light bg-input-default w-full py-2 px-2 text-input-text placeholder-input-text-placeholder placeholder:font-normal outline-none"
               onChange={(e) => setQuery(e.target.value)}
-              onKeyDown={(e) => {
-                if (e.key === "Enter") {
-                  guessChampion(filteredChampions[0]);
-                }
-              }}
             />
             <Combobox.Button
               onClick={() => setQuery("")}
@@ -87,9 +90,6 @@ export default function ChampionInput(props: Props) {
                         }`
                       }
                       value={champion.name}
-                      onClick={() => {
-                        guessChampion(champion);
-                      }}
                     >
                       <div className="flex items-center">
                         <Image

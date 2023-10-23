@@ -11,10 +11,15 @@ export default function Home() {
           }}
           className="bg-cover h-full w-full fixed z-[-10]"
         ></div>
-        <div className="flex flex-col items-center justify-center min-h-screen min-w-full">
-          <div className="bg-gradient-to-b from-btn-border-light to-btn-border-dark p-2 font-medium">
+        <div className="flex flex-col items-center justify-center min-h-screen min-w-full gap-2">
+          <div className="bg-gradient-to-b from-btn-border-light to-btn-border-dark p-2 font-medium w-60 text-center">
             <Link className="text-input-text" href="/classic">
               Loldle Unlimited
+            </Link>
+          </div>
+          <div className="bg-gradient-to-b from-btn-border-light to-btn-border-dark p-2 font-medium w-60 text-center">
+            <Link className="text-input-text" href="/ability">
+              Guess Ability
             </Link>
           </div>
         </div>
