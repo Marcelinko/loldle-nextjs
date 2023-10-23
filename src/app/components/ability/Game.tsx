@@ -28,11 +28,11 @@ interface Ability {
 
 export default function AbilityGame() {
   const CHAMPION_URL =
-    "http://ddragon.leagueoflegends.com/cdn/13.20.1/data/en_US/champion/";
+    "https://ddragon.leagueoflegends.com/cdn/13.20.1/data/en_US/champion/";
   const ABILITY_IMAGE_URL =
-    "http://ddragon.leagueoflegends.com/cdn/13.20.1/img/spell/";
+    "https://ddragon.leagueoflegends.com/cdn/13.20.1/img/spell/";
   const PASSIVE_IMAGE_URL =
-    "http://ddragon.leagueoflegends.com/cdn/13.20.1/img/passive/";
+    "https://ddragon.leagueoflegends.com/cdn/13.20.1/img/passive/";
   const [champions, setChampions] = useState(championsJSON);
   const [champToGuess, setChampToGuess] = useState(
     championsJSON[Math.floor(Math.random() * championsJSON.length)]

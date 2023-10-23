@@ -28,7 +28,7 @@ export default function Ability(props: Props) {
             alt="ability"
           />
         </div>
-        <div className="flex gap-3">
+        <div className="flex gap-2">
           <div>
             <p className="text-sm text-input-text mb-1">Rotation</p>
             <Switch

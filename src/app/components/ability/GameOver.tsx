@@ -32,8 +32,6 @@ interface Props {
 }
 
 export default function GameOver(props: Props) {
-  const CHAMPION_IMAGE_URL =
-    "https://ddragon.leagueoflegends.com/cdn/13.19.1/img/champion/";
   const abilityNames = ["Passive", "Q", "W", "E", "R"];
   const bottomRef = useRef<null | HTMLDivElement>(null);
   const [mounted, setMounted] = useState(false);
